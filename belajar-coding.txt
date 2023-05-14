@@ -1,4 +1,5 @@
 belajar coding
 - konsisiten untuk belajar coding
 - belajar bahasa pemrograman java
-- mencoba membuat project sederhana 
+- mencoba membuat project sederhana
+- belajar bahasa pemrograman c++
